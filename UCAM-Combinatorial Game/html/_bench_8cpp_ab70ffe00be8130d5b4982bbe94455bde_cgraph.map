@@ -1,0 +1,5 @@
+<map id="InitRandSteps" name="InitRandSteps">
+<area shape="rect" id="node2" href="$class_m_t_random.html#a30bebdf5f5482b1cd4c66b8164954322" title="Initializes mt[N] with a seed. " alt="" coords="600,5,763,32"/>
+<area shape="rect" id="node3" href="$class_m_t_random.html#a65e2d35f3616bbfd0088a3b4b8e6c12f" title="generates an integer number on [0,100] interval.. " alt="" coords="157,31,331,57"/>
+<area shape="rect" id="node4" href="$class_m_t_random.html#a55c354dc4a010b2327fbbc4c06d1fa52" title="Generates a random number on [0,0xffffffff]&#45;interval. " alt="" coords="379,31,552,57"/>
+</map>

@@ -1,0 +1,1490 @@
+{
+    "place": {
+        "theater": {
+            "code": "P0956",
+            "name": "Ciné Dôme",
+            "address": "Avenue Lavoisier - Zac des Varennes Est",
+            "postalCode": "63170",
+            "city": "Aubière",
+            "area": "Auvergne",
+            "picture": {
+                "path": "\/pictures\/210\/731\/21073118_20140115143807629.jpg",
+                "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/210\/731\/21073118_20140115143807629.jpg"
+            },
+            "cinemaChain": {
+                "code": 81025,
+                "name": "CinéAlpes"
+            },
+            "hasPRMAccess": 1,
+            "openToSales": 1,
+            "geoloc": {
+                "lat": 45.7567654,
+                "long": 3.1441095
+            },
+            "link": [
+                {
+                    "rel": "aco:web",
+                    "href": "http:\/\/www.allocine.fr\/seance\/salle_gen_csalle=P0956.html"
+                }
+            ]
+        }
+    },
+    "movieShowtimes": [
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 261561,
+                    "title": "Les Invisibles",
+                    "castingShort": {
+                        "directors": "Louis-Julien Petit",
+                        "actors": "Audrey Lamy, Corinne Masiero, Noémie Lvovsky, Déborah Lukumuena, Sarah Suco"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-09"
+                    },
+                    "runtime": 6120,
+                    "genre": [
+                        {
+                            "code": 13005,
+                            "name": "Comédie"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/10\/31\/15\/48\/3233262.jpg",
+                        "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/10\/31\/15\/48\/3233262.jpg"
+                    },
+                    "trailer": {
+                        "code": 19580196,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19580196"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19580196&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=261561.html\" target=\"_blank\">Les Invisibles<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Les Invisibles",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=261561.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 3.6,
+                        "pressReviewCount": 25,
+                        "userRating": 4.18119144,
+                        "userReviewCount": 262,
+                        "userRatingCount": 1561,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 30 janvier 2019 : 11:00, 13:40, 15:45, 17:50, 19:55",
+            "scr": [
+                {
+                    "d": "2019-01-30",
+                    "t": [
+                        {
+                            "code": 806845683,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247635\/D1548842400\/VF",
+                            "name": "11:00"
+                        },
+                        {
+                            "code": 806845684,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247635\/D1548852000\/VF",
+                            "name": "13:40"
+                        },
+                        {
+                            "code": 806845685,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247635\/D1548859500\/VF",
+                            "name": "15:45"
+                        },
+                        {
+                            "code": 806845686,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247635\/D1548867000\/VF",
+                            "name": "17:50"
+                        },
+                        {
+                            "code": 806845687,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247635\/D1548874500\/VF",
+                            "name": "19:55"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 256968,
+                    "title": "Edmond",
+                    "castingShort": {
+                        "directors": "Alexis Michalik",
+                        "actors": "Thomas Solivérès, Olivier Gourmet, Mathilde Seigner, Tom Leeb, Lucie Boujenah"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-09"
+                    },
+                    "runtime": 6600,
+                    "genre": [
+                        {
+                            "code": 13008,
+                            "name": "Drame"
+                        },
+                        {
+                            "code": 13005,
+                            "name": "Comédie"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/09\/14\/14\/09\/1059294.jpg",
+                        "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/09\/14\/14\/09\/1059294.jpg"
+                    },
+                    "trailer": {
+                        "code": 19581696,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19581696"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19581696&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256968.html\" target=\"_blank\">Edmond<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Edmond",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256968.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 3.625,
+                        "pressReviewCount": 24,
+                        "userRating": 4.48738241,
+                        "userReviewCount": 343,
+                        "userRatingCount": 1753,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 17:00, 21:30\u000d\u000aSéances du jeudi 24 janvier 2019 : 17:00, 22:00\u000d\u000aSéances du vendredi 25 janvier 2019 : 17:00, 21:30\u000d\u000aSéances du samedi 26 janvier 2019 : 17:00, 21:30\u000d\u000aSéances du dimanche 27 janvier 2019 : 19:15, 21:30\u000d\u000aSéances du lundi 28 janvier 2019 : 17:00, 21:30\u000d\u000aSéances du mardi 29 janvier 2019 : 17:00, 21:30",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842904,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F223824\/D1548691200\/VF",
+                            "name": "17:00"
+                        },
+                        {
+                            "code": 806842905,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F223824\/D1548707400\/VF",
+                            "name": "21:30"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842906,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F223824\/D1548777600\/VF",
+                            "name": "17:00"
+                        },
+                        {
+                            "code": 806842907,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F223824\/D1548793800\/VF",
+                            "name": "21:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 262394,
+                    "title": "Qu'est-ce qu'on a encore fait au Bon Dieu ?",
+                    "castingShort": {
+                        "directors": "Philippe de Chauveron",
+                        "actors": "Christian Clavier, Chantal Lauby, Ary Abittan, Medi Sadoun, Frédéric Chau"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-30"
+                    },
+                    "runtime": 5940,
+                    "genre": [
+                        {
+                            "code": 13005,
+                            "name": "Comédie"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/10\/30\/09\/17\/3442022.jpg",
+                        "href": "http:\/\/fr.web.img3.acsta.net\/pictures\/18\/10\/30\/09\/17\/3442022.jpg"
+                    },
+                    "trailer": {
+                        "code": 19580144,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19580144"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19580144&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=262394.html\" target=\"_blank\">Qu'est-ce qu'on a encore fait au Bon Dieu ?<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Qu'est-ce qu'on a encore fait au Bon Dieu ?",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=262394.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressReviewCount": 0,
+                        "userReviewCount": 0,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 30 janvier 2019 : 11:00, 13:45, 15:30, 15:55, 17:30, 18:05, 19:30, 20:15, 21:45\u000d\u000aSéances du jeudi 31 janvier 2019 : 13:45, 15:55, 18:05, 20:15, 21:45\u000d\u000aSéances du vendredi 1 février 2019 : 13:45, 15:55, 18:05, 20:15, 21:45\u000d\u000aSéances du samedi 2 février 2019 : 11:00, 13:45, 15:55, 18:05, 20:15, 21:45\u000d\u000aSéances du dimanche 3 février 2019 : 11:00, 13:45, 15:55, 18:05, 20:15, 21:45\u000d\u000aSéances du lundi 4 février 2019 : 13:45, 15:55, 18:05, 20:15, 21:45\u000d\u000aSéances du mardi 5 février 2019 : 13:45, 15:55, 18:05, 20:15, 21:45",
+            "scr": [
+                {
+                    "d": "2019-01-30",
+                    "t": [
+                        {
+                            "code": 806845610,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548842400\/VF",
+                            "name": "11:00"
+                        },
+                        {
+                            "code": 806845611,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548852300\/VF",
+                            "name": "13:45"
+                        },
+                        {
+                            "code": 806845671,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548858600\/VF",
+                            "name": "15:30"
+                        },
+                        {
+                            "code": 806845612,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548860100\/VF",
+                            "name": "15:55"
+                        },
+                        {
+                            "code": 806845672,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548865800\/VF",
+                            "name": "17:30"
+                        },
+                        {
+                            "code": 806845613,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548867900\/VF",
+                            "name": "18:05"
+                        },
+                        {
+                            "code": 806845673,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548873000\/VF",
+                            "name": "19:30"
+                        },
+                        {
+                            "code": 806845614,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548875700\/VF",
+                            "name": "20:15"
+                        },
+                        {
+                            "code": 806845674,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548881100\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-31",
+                    "t": [
+                        {
+                            "code": 806845615,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548938700\/VF",
+                            "name": "13:45"
+                        },
+                        {
+                            "code": 806845616,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548946500\/VF",
+                            "name": "15:55"
+                        },
+                        {
+                            "code": 806845617,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548954300\/VF",
+                            "name": "18:05"
+                        },
+                        {
+                            "code": 806845618,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548962100\/VF",
+                            "name": "20:15"
+                        },
+                        {
+                            "code": 806845675,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1548967500\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-02-01",
+                    "t": [
+                        {
+                            "code": 806845619,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549025100\/VF",
+                            "name": "13:45"
+                        },
+                        {
+                            "code": 806845620,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549032900\/VF",
+                            "name": "15:55"
+                        },
+                        {
+                            "code": 806845621,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549040700\/VF",
+                            "name": "18:05"
+                        },
+                        {
+                            "code": 806845622,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549048500\/VF",
+                            "name": "20:15"
+                        },
+                        {
+                            "code": 806845676,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549053900\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-02-02",
+                    "t": [
+                        {
+                            "code": 806845623,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549101600\/VF",
+                            "name": "11:00"
+                        },
+                        {
+                            "code": 806845624,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549111500\/VF",
+                            "name": "13:45"
+                        },
+                        {
+                            "code": 806845625,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549119300\/VF",
+                            "name": "15:55"
+                        },
+                        {
+                            "code": 806845626,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549127100\/VF",
+                            "name": "18:05"
+                        },
+                        {
+                            "code": 806845627,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549134900\/VF",
+                            "name": "20:15"
+                        },
+                        {
+                            "code": 806845677,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549140300\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-02-03",
+                    "t": [
+                        {
+                            "code": 806845628,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549188000\/VF",
+                            "name": "11:00"
+                        },
+                        {
+                            "code": 806845629,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549197900\/VF",
+                            "name": "13:45"
+                        },
+                        {
+                            "code": 806845630,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549205700\/VF",
+                            "name": "15:55"
+                        },
+                        {
+                            "code": 806845631,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549213500\/VF",
+                            "name": "18:05"
+                        },
+                        {
+                            "code": 806845632,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549221300\/VF",
+                            "name": "20:15"
+                        },
+                        {
+                            "code": 806845678,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549226700\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-02-04",
+                    "t": [
+                        {
+                            "code": 806845633,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549284300\/VF",
+                            "name": "13:45"
+                        },
+                        {
+                            "code": 806845634,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549292100\/VF",
+                            "name": "15:55"
+                        },
+                        {
+                            "code": 806845635,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549299900\/VF",
+                            "name": "18:05"
+                        },
+                        {
+                            "code": 806845636,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549307700\/VF",
+                            "name": "20:15"
+                        },
+                        {
+                            "code": 806845679,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549313100\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-02-05",
+                    "t": [
+                        {
+                            "code": 806845637,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549370700\/VF",
+                            "name": "13:45"
+                        },
+                        {
+                            "code": 806845638,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549378500\/VF",
+                            "name": "15:55"
+                        },
+                        {
+                            "code": 806845639,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549386300\/VF",
+                            "name": "18:05"
+                        },
+                        {
+                            "code": 806845640,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549394100\/VF",
+                            "name": "20:15"
+                        },
+                        {
+                            "code": 806845680,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F249083\/D1549399500\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "true",
+            "onShow": {
+                "movie": {
+                    "code": 262272,
+                    "title": "La Mule",
+                    "castingShort": {
+                        "directors": "Clint Eastwood",
+                        "actors": "Clint Eastwood, Bradley Cooper, Laurence Fishburne, Michael Peña, Dianne Wiest"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-23"
+                    },
+                    "runtime": 6960,
+                    "genre": [
+                        {
+                            "code": 13008,
+                            "name": "Drame"
+                        },
+                        {
+                            "code": 13027,
+                            "name": "Biopic"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/19\/01\/08\/15\/37\/4909441.jpg",
+                        "href": "http:\/\/fr.web.img4.acsta.net\/pictures\/19\/01\/08\/15\/37\/4909441.jpg"
+                    },
+                    "trailer": {
+                        "code": 19581835,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19581835"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19581835&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=262272.html\" target=\"_blank\">La Mule<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "La Mule",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=262272.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 4,
+                        "pressReviewCount": 27,
+                        "userRating": 4.07763433,
+                        "userReviewCount": 169,
+                        "userRatingCount": 1276,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 10:50, 14:15, 16:45, 19:30, 21:55\u000d\u000aSéances du jeudi 24 janvier 2019 : 14:15, 16:45, 19:30, 21:55\u000d\u000aSéances du vendredi 25 janvier 2019 : 14:15, 19:30, 21:55\u000d\u000aSéances du samedi 26 janvier 2019 : 10:50, 14:15, 16:45, 19:30, 21:55\u000d\u000aSéances du dimanche 27 janvier 2019 : 10:50, 14:15, 16:45, 19:30, 21:55\u000d\u000aSéances du lundi 28 janvier 2019 : 14:15, 16:45, 21:55\u000d\u000aSéances du mardi 29 janvier 2019 : 16:45, 19:30, 21:55",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842703,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257725\/D1548690300\/VF",
+                            "name": "16:45"
+                        },
+                        {
+                            "code": 806842704,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257725\/D1548708900\/VF",
+                            "name": "21:55"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842705,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257725\/D1548776700\/VF",
+                            "name": "16:45"
+                        },
+                        {
+                            "code": 806842706,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257725\/D1548786600\/VF",
+                            "name": "19:30"
+                        },
+                        {
+                            "code": 806842707,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257725\/D1548795300\/VF",
+                            "name": "21:55"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 261959,
+                    "title": "L'Incroyable histoire du Facteur Cheval",
+                    "castingShort": {
+                        "directors": "Nils Tavernier",
+                        "actors": "Jacques Gamblin, Laetitia Casta, Bernard Le Coq, Florence Thomassin, Natacha Lindinger"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-16"
+                    },
+                    "runtime": 6300,
+                    "genre": [
+                        {
+                            "code": 13002,
+                            "name": "Comédie dramatique"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/11\/07\/10\/31\/0874661.jpg",
+                        "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/11\/07\/10\/31\/0874661.jpg"
+                    },
+                    "trailer": {
+                        "code": 19580543,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19580543"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19580543&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=261959.html\" target=\"_blank\">L'Incroyable histoire du Facteur Cheval<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "L'Incroyable histoire du Facteur Cheval",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=261959.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 3.235294,
+                        "pressReviewCount": 17,
+                        "userRating": 4.253002,
+                        "userReviewCount": 158,
+                        "userRatingCount": 539,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 10:55, 13:40, 15:50, 18:00, 20:05, 22:10\u000d\u000aSéances du jeudi 24 janvier 2019 : 13:40, 18:00, 20:05, 22:10\u000d\u000aSéances du vendredi 25 janvier 2019 : 13:40, 15:50, 18:00, 20:05, 22:10\u000d\u000aSéances du samedi 26 janvier 2019 : 10:55, 13:40, 15:50, 17:45, 19:50, 22:00\u000d\u000aSéances du dimanche 27 janvier 2019 : 10:55, 13:40, 15:50, 18:00, 20:05, 22:10\u000d\u000aSéances du lundi 28 janvier 2019 : 13:40, 15:50, 18:00, 20:05, 22:10\u000d\u000aSéances du mardi 29 janvier 2019 : 13:40, 15:50, 18:00, 20:05, 22:10",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842839,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548687000\/VFST",
+                            "name": "15:50"
+                        },
+                        {
+                            "code": 806842840,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548694800\/VF",
+                            "name": "18:00"
+                        },
+                        {
+                            "code": 806842841,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548702300\/VF",
+                            "name": "20:05"
+                        },
+                        {
+                            "code": 806842842,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548709800\/VF",
+                            "name": "22:10"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842843,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548765600\/VF",
+                            "name": "13:40"
+                        },
+                        {
+                            "code": 806842844,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548773400\/VF",
+                            "name": "15:50"
+                        },
+                        {
+                            "code": 806842845,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548781200\/VF",
+                            "name": "18:00"
+                        },
+                        {
+                            "code": 806842846,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548788700\/VF",
+                            "name": "20:05"
+                        },
+                        {
+                            "code": 806842847,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F248287\/D1548796200\/VF",
+                            "name": "22:10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 244084,
+                    "title": "Creed II",
+                    "castingShort": {
+                        "directors": "Steven Caple Jr.",
+                        "actors": "Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad, Dolph Lundgren"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-09"
+                    },
+                    "runtime": 7800,
+                    "genre": [
+                        {
+                            "code": 13008,
+                            "name": "Drame"
+                        },
+                        {
+                            "code": 13025,
+                            "name": "Action"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/11\/27\/14\/25\/1451897.jpg",
+                        "href": "http:\/\/fr.web.img5.acsta.net\/pictures\/18\/11\/27\/14\/25\/1451897.jpg"
+                    },
+                    "trailer": {
+                        "code": 19580352,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19580352"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19580352&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=244084.html\" target=\"_blank\">Creed II<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Creed II",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=244084.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 2.857142,
+                        "pressReviewCount": 21,
+                        "userRating": 4.22084236,
+                        "userReviewCount": 228,
+                        "userRatingCount": 2060,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 10:50, 13:50, 16:30, 19:20, 21:55\u000d\u000aSéances du jeudi 24 janvier 2019 : 13:50, 16:30, 21:55\u000d\u000aSéances du vendredi 25 janvier 2019 : 13:50, 16:30, 19:20, 21:55\u000d\u000aSéances du samedi 26 janvier 2019 : 10:50, 13:50, 16:30, 19:20, 21:55\u000d\u000aSéances du dimanche 27 janvier 2019 : 10:50, 13:50, 16:30, 19:20, 21:55\u000d\u000aSéances du lundi 28 janvier 2019 : 13:50, 16:30, 19:20, 21:55\u000d\u000aSéances du mardi 29 janvier 2019 : 13:50, 16:30, 19:20, 21:55",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842640,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F231804\/D1548689400\/VF",
+                            "name": "16:30"
+                        },
+                        {
+                            "code": 806842641,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F231804\/D1548699600\/VF",
+                            "name": "19:20"
+                        },
+                        {
+                            "code": 806842642,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F231804\/D1548708900\/VF",
+                            "name": "21:55"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842643,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F231804\/D1548766200\/VF",
+                            "name": "13:50"
+                        },
+                        {
+                            "code": 806842644,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F231804\/D1548775800\/VF",
+                            "name": "16:30"
+                        },
+                        {
+                            "code": 806842645,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F231804\/D1548786000\/VF",
+                            "name": "19:20"
+                        },
+                        {
+                            "code": 806842646,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F231804\/D1548795300\/VF",
+                            "name": "21:55"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 253849,
+                    "title": "Glass",
+                    "castingShort": {
+                        "directors": "M. Night Shyamalan",
+                        "actors": "James McAvoy, Bruce Willis, Anya Taylor-Joy, Sarah Paulson, Samuel L. Jackson"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-16"
+                    },
+                    "runtime": 7800,
+                    "genre": [
+                        {
+                            "code": 13023,
+                            "name": "Thriller"
+                        },
+                        {
+                            "code": 13012,
+                            "name": "Fantastique"
+                        }
+                    ],
+                    "movieCertificate": {
+                        "certificate": {
+                            "code": 14001,
+                            "name": "Interdit aux moins de 12 ans"
+                        }
+                    },
+                    "poster": {
+                        "path": "\/pictures\/19\/01\/15\/12\/29\/5059914.jpg",
+                        "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/19\/01\/15\/12\/29\/5059914.jpg"
+                    },
+                    "trailer": {
+                        "code": 19580660,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19580660"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19580660&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=253849.html\" target=\"_blank\">Glass<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Glass",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=253849.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 3.5,
+                        "pressReviewCount": 28,
+                        "userRating": 3.64357257,
+                        "userReviewCount": 312,
+                        "userRatingCount": 2577,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 10:45, 14:00, 16:40, 19:20, 21:55\u000d\u000aSéances du jeudi 24 janvier 2019 : 14:00, 16:40, 21:55\u000d\u000aSéances du vendredi 25 janvier 2019 : 14:00, 16:40, 19:20, 21:55\u000d\u000aSéances du samedi 26 janvier 2019 : 10:45, 14:00, 16:40, 19:20, 21:55\u000d\u000aSéances du dimanche 27 janvier 2019 : 10:45, 14:00, 16:40, 19:20, 21:55\u000d\u000aSéances du lundi 28 janvier 2019 : 14:00, 16:40, 21:55\u000d\u000aSéances du mardi 29 janvier 2019 : 14:00, 16:40, 19:20, 21:55",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842769,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F204114\/D1548690000\/VF",
+                            "name": "16:40"
+                        },
+                        {
+                            "code": 806842770,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F204114\/D1548708900\/VF",
+                            "name": "21:55"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842771,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F204114\/D1548766800\/VF",
+                            "name": "14:00"
+                        },
+                        {
+                            "code": 806842772,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F204114\/D1548776400\/VF",
+                            "name": "16:40"
+                        },
+                        {
+                            "code": 806842773,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F204114\/D1548786000\/VF",
+                            "name": "19:20"
+                        },
+                        {
+                            "code": 806842774,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F204114\/D1548795300\/VF",
+                            "name": "21:55"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "true",
+            "onShow": {
+                "movie": {
+                    "code": 256661,
+                    "title": "Green Book : Sur les routes du sud",
+                    "castingShort": {
+                        "directors": "Peter Farrelly",
+                        "actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco, Dimiter D. Marinov"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-23"
+                    },
+                    "runtime": 7800,
+                    "genre": [
+                        {
+                            "code": 13008,
+                            "name": "Drame"
+                        },
+                        {
+                            "code": 13027,
+                            "name": "Biopic"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/19\/01\/22\/17\/07\/2411714.jpg",
+                        "href": "http:\/\/fr.web.img6.acsta.net\/pictures\/19\/01\/22\/17\/07\/2411714.jpg"
+                    },
+                    "trailer": {
+                        "code": 19581631,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19581631"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19581631&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256661.html\" target=\"_blank\">Green Book : Sur les routes du sud<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Green Book : Sur les routes du sud",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=256661.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 3.962962,
+                        "pressReviewCount": 27,
+                        "userRating": 4.510883,
+                        "userReviewCount": 159,
+                        "userRatingCount": 1192,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 13:50, 16:25, 19:10, 21:45\u000d\u000aSéances du jeudi 24 janvier 2019 : 13:50, 16:25, 19:10, 21:45\u000d\u000aSéances du vendredi 25 janvier 2019 : 13:50, 16:25, 19:10, 21:45\u000d\u000aSéances du samedi 26 janvier 2019 : 13:50, 16:25, 19:10, 21:45\u000d\u000aSéances du dimanche 27 janvier 2019 : 13:50, 16:25, 19:10, 21:45\u000d\u000aSéances du lundi 28 janvier 2019 : 13:50, 16:25, 19:10, 21:45\u000d\u000aSéances du mardi 29 janvier 2019 : 13:50, 16:25, 19:10, 21:45",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842665,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247501\/D1548689100\/VF",
+                            "name": "16:25"
+                        },
+                        {
+                            "code": 806842666,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247501\/D1548699000\/VF",
+                            "name": "19:10"
+                        },
+                        {
+                            "code": 806842667,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247501\/D1548708300\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842668,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247501\/D1548766200\/VF",
+                            "name": "13:50"
+                        },
+                        {
+                            "code": 806842669,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247501\/D1548775500\/VF",
+                            "name": "16:25"
+                        },
+                        {
+                            "code": 806842670,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247501\/D1548785400\/VF",
+                            "name": "19:10"
+                        },
+                        {
+                            "code": 806842671,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F247501\/D1548794700\/VF",
+                            "name": "21:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 185719,
+                    "title": "Bohemian Rhapsody",
+                    "castingShort": {
+                        "directors": "Bryan Singer",
+                        "actors": "Rami Malek, Gwilym Lee, Lucy Boynton, Ben Hardy, Joseph Mazzello"
+                    },
+                    "release": {
+                        "releaseDate": "2018-10-31"
+                    },
+                    "runtime": 8100,
+                    "genre": [
+                        {
+                            "code": 13027,
+                            "name": "Biopic"
+                        },
+                        {
+                            "code": 13008,
+                            "name": "Drame"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/05\/15\/16\/26\/2028013.jpg",
+                        "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/18\/05\/15\/16\/26\/2028013.jpg"
+                    },
+                    "trailer": {
+                        "code": 19579322,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19579322"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19579322&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=185719.html\" target=\"_blank\">Bohemian Rhapsody<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Bohemian Rhapsody",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=185719.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 2.961538,
+                        "pressReviewCount": 26,
+                        "userRating": 4.62963343,
+                        "userReviewCount": 1775,
+                        "userRatingCount": 12177,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 19:15, 21:50\u000d\u000aSéances du jeudi 24 janvier 2019 : 19:15, 21:50\u000d\u000aSéances du vendredi 25 janvier 2019 : 19:40, 22:05\u000d\u000aSéances du samedi 26 janvier 2019 : 19:15, 21:50\u000d\u000aSéances du dimanche 27 janvier 2019 : 19:15, 21:50\u000d\u000aSéances du lundi 28 janvier 2019 : 19:15, 21:50\u000d\u000aSéances du mardi 29 janvier 2019 : 19:15, 21:50",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842858,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F178544\/D1548699300\/VF",
+                            "name": "19:15"
+                        },
+                        {
+                            "code": 806842859,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F178544\/D1548708600\/VF",
+                            "name": "21:50"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842860,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F178544\/D1548785700\/VF",
+                            "name": "19:15"
+                        },
+                        {
+                            "code": 806842861,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F178544\/D1548795000\/VF",
+                            "name": "21:50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "false",
+            "onShow": {
+                "movie": {
+                    "code": 208692,
+                    "title": "Aquaman",
+                    "castingShort": {
+                        "directors": "James Wan",
+                        "actors": "Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Nicole Kidman"
+                    },
+                    "release": {
+                        "releaseDate": "2018-12-19"
+                    },
+                    "runtime": 8640,
+                    "genre": [
+                        {
+                            "code": 13025,
+                            "name": "Action"
+                        },
+                        {
+                            "code": 13012,
+                            "name": "Fantastique"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/12\/13\/12\/12\/2738771.jpg",
+                        "href": "http:\/\/fr.web.img1.acsta.net\/pictures\/18\/12\/13\/12\/12\/2738771.jpg"
+                    },
+                    "trailer": {
+                        "code": 19581227,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19581227"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19581227&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=208692.html\" target=\"_blank\">Aquaman<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Aquaman",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=208692.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 2.625,
+                        "pressReviewCount": 16,
+                        "userRating": 3.90411735,
+                        "userReviewCount": 806,
+                        "userRatingCount": 5766,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 14:00, 16:30, 19:00, 21:15\u000d\u000aSéances du jeudi 24 janvier 2019 : 14:00, 16:30, 19:00, 21:15\u000d\u000aSéances du vendredi 25 janvier 2019 : 14:00, 16:30, 19:00, 21:30\u000d\u000aSéances du samedi 26 janvier 2019 : 14:00, 16:30, 19:00, 21:30\u000d\u000aSéances du dimanche 27 janvier 2019 : 14:00, 16:30, 19:00, 21:15\u000d\u000aSéances du lundi 28 janvier 2019 : 14:00, 16:30, 19:00, 21:15\u000d\u000aSéances du mardi 29 janvier 2019 : 14:00, 16:30, 19:00, 21:15",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842867,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F186414\/D1548689400\/VF",
+                            "name": "16:30"
+                        },
+                        {
+                            "code": 806842523,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F186414\/D1548698400\/VF",
+                            "name": "19:00"
+                        },
+                        {
+                            "code": 806842465,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F186414\/D1548706500\/VF",
+                            "name": "21:15"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842886,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F186414\/D1548766800\/VF",
+                            "name": "14:00"
+                        },
+                        {
+                            "code": 806842868,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F186414\/D1548775800\/VF",
+                            "name": "16:30"
+                        },
+                        {
+                            "code": 806842524,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F186414\/D1548784800\/VF",
+                            "name": "19:00"
+                        },
+                        {
+                            "code": 806842466,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F186414\/D1548792900\/VF",
+                            "name": "21:15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "preview": "false",
+            "releaseWeek": "true",
+            "onShow": {
+                "movie": {
+                    "code": 266586,
+                    "title": "Les Petits Flocons",
+                    "castingShort": {
+                        "directors": "Joséphine de Meaux",
+                        "actors": "Joséphine de Meaux, Grégoire Ludig, Gustave Kervern, Thomas Scimeca, Adèle Gillain"
+                    },
+                    "release": {
+                        "releaseDate": "2019-01-23"
+                    },
+                    "runtime": 4800,
+                    "genre": [
+                        {
+                            "code": 13005,
+                            "name": "Comédie"
+                        }
+                    ],
+                    "poster": {
+                        "path": "\/pictures\/18\/12\/28\/13\/04\/5323267.jpg",
+                        "href": "http:\/\/fr.web.img2.acsta.net\/pictures\/18\/12\/28\/13\/04\/5323267.jpg"
+                    },
+                    "trailer": {
+                        "code": 19580623,
+                        "href": "http:\/\/www.allocine.fr\/blogvision\/19580623"
+                    },
+                    "trailerEmbed": "<div id='ACEmbed'><iframe src='http:\/\/www.allocine.fr\/_video\/iblogvision.aspx?cmedia=19580623&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'><\/iframe><br \/><a href=\"http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=266586.html\" target=\"_blank\">Les Petits Flocons<\/a><\/div>",
+                    "link": [
+                        {
+                            "rel": "aco:web",
+                            "name": "Les Petits Flocons",
+                            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=266586.html"
+                        }
+                    ],
+                    "statistics": {
+                        "pressRating": 1.666666,
+                        "pressReviewCount": 3,
+                        "userRating": 2.74911928,
+                        "userReviewCount": 21,
+                        "userRatingCount": 73,
+                        "editorialRatingCount": 0
+                    }
+                }
+            },
+            "version": {
+                "original": "false",
+                "code": 6001,
+                "lang": 6001,
+                "name": "Français"
+            },
+            "screenFormat": {
+                "code": 110002,
+                "name": "Numérique"
+            },
+            "display": "Séances du mercredi 23 janvier 2019 : 11:15, 14:10, 16:10, 18:00, 20:10, 22:00\u000d\u000aSéances du jeudi 24 janvier 2019 : 14:10, 16:10, 18:00, 20:10, 22:00\u000d\u000aSéances du vendredi 25 janvier 2019 : 14:10, 16:10, 18:00, 20:10, 22:00\u000d\u000aSéances du samedi 26 janvier 2019 : 11:15, 14:10, 16:10, 18:00, 20:10, 22:00\u000d\u000aSéances du dimanche 27 janvier 2019 : 11:15, 14:10, 16:10, 18:15, 20:10, 22:00\u000d\u000aSéances du lundi 28 janvier 2019 : 14:10, 16:10, 18:00, 20:10, 22:00\u000d\u000aSéances du mardi 29 janvier 2019 : 14:10, 16:10, 18:00, 20:10, 22:00",
+            "scr": [
+                {
+                    "d": "2019-01-28",
+                    "t": [
+                        {
+                            "code": 806842609,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548688200\/VF",
+                            "name": "16:10"
+                        },
+                        {
+                            "code": 806842516,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548694800\/VF",
+                            "name": "18:00"
+                        },
+                        {
+                            "code": 806842610,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548702600\/VF",
+                            "name": "20:10"
+                        },
+                        {
+                            "code": 806842611,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548709200\/VF",
+                            "name": "22:00"
+                        }
+                    ]
+                },
+                {
+                    "d": "2019-01-29",
+                    "t": [
+                        {
+                            "code": 806842612,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548767400\/VF",
+                            "name": "14:10"
+                        },
+                        {
+                            "code": 806842613,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548774600\/VF",
+                            "name": "16:10"
+                        },
+                        {
+                            "code": 806842517,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548781200\/VF",
+                            "name": "18:00"
+                        },
+                        {
+                            "code": 806842614,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548789000\/VF",
+                            "name": "20:10"
+                        },
+                        {
+                            "code": 806842615,
+                            "p": 0,
+                            "tk": "https:\/\/tickets.allocine.fr\/aubiere-cine-dome\/reserver\/F257803\/D1548795600\/VF",
+                            "name": "22:00"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

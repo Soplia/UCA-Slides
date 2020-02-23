@@ -1,0 +1,114 @@
+01. 
+select ?pre ?obj
+where
+{
+ dbr:Alan_Turing ?pre ?obj.
+}
+
+02. 
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix dbr: <http://dbpedia.org/resource/>
+SELECT  ?homepage
+where
+{
+  dbr:Alan_Turing foaf:homepage ?homepage .
+}
+
+03. 
+SELECT  ?countries ?name
+where
+{
+ dbr:Danube dbo:country ?countries .
+ optional
+ {
+  dbr:Danube rdfs:label ?name .
+  filter (lang(?name) = "en") .
+ }
+}
+
+04. 
+SELECT  ?countries ?name
+where
+{
+ dbr:Nile dbo:sourceCountry ?countries .
+ optional
+ {
+  dbr:Danube rdfs:label ?name .
+  filter (lang(?name) = "fr") .
+ }
+}
+
+05. 
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix dbr: <http://dbpedia.org/resource/>
+SELECT  ?homepage
+where
+{
+  dbr:Bob_Marley foaf:homepage ?homepage .
+}
+
+06. 
+SELECT  ?names
+where
+{
+ ?names dbo:influencedBy dbr:Alan_Turing .
+}
+
+07.
+SELECT  ?names
+where
+{
+ ?names dbo:influencedBy / dbo:influencedBy  dbr:Alan_Turing .
+}
+
+08.
+SELECT  ?names
+where
+{
+ ?names dbo:doctoralStudent | dbo:influencedBy  dbr:Alan_Turing .
+}
+
+09.
+SELECT  ?names 
+where
+{
+ {?names (dbo:influencedBy)+ dbr:Alan_Turing .}
+ union
+{?names (dbo:influenced) dbr:Alan_Turing .}
+}
+
+10. 
+SELECT  ?names 
+where
+{
+ ?names dbo:doctoralStudent / dbo:doctoralStudent dbr:Alan_Turing .
+}
+
+11.
+where
+{
+ {{?names (dbo:doctoralStudent)+ dbr:Alan_Turing .}
+union
+{?names dbo:doctoralAdvisor dbr:Alan_Turing .}}
+union
+{{?names (dbo:influencedBy)+ dbr:Alan_Turing .}
+ union
+{?names (dbo:influenced) dbr:Alan_Turing .}}
+}
+
+12.
+SELECT   count(?names)
+where
+{
+ dbr:Alan_Turing  dbp:workInstitutions ?names .
+}
+
+13.
+SELECT  ?names 
+where
+{
+  dbr:Alan_Turing  dbo:field ?names .
+}
+
+
+

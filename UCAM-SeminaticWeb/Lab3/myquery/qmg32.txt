@@ -1,0 +1,8 @@
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+
+select  count(*)
+where 
+{ 
+	dbp:The_Beatles dbo:wikiPageExternalLink ?o .
+}

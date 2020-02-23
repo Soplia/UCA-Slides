@@ -1,0 +1,7 @@
+<map id="ChessBoard::CheckMax" name="ChessBoard::CheckMax">
+<area shape="rect" id="node2" href="$class_chess_board.html#ab9bd09851c72804bca5765f8cc2d2ba0" title="Use the exhaustive method to determine the maximum number of pieces in each of the four directions of..." alt="" coords="216,5,389,32"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#a7264d36b38c7fcf8a1485ea94752bac7" title="The whole process of WithoutAI to Play. " alt="" coords="438,5,597,32"/>
+<area shape="rect" id="node4" href="$_bench_8cpp.html#a391ed5a8e84e0c58cd55eaf9202c7f9d" title="PlayChess. " alt="" coords="645,5,731,32"/>
+<area shape="rect" id="node5" href="$_bench_8cpp.html#aba4b4e93575fbe97ee05b2c1f4f053f1" title="Simulation" alt="" coords="779,5,861,32"/>
+<area shape="rect" id="node6" href="$_bench_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="909,5,960,32"/>
+</map>

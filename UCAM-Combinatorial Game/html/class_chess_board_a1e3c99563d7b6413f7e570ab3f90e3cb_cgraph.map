@@ -1,0 +1,9 @@
+<map id="ChessBoard::GetBestPosition" name="ChessBoard::GetBestPosition">
+<area shape="rect" id="node2" href="$class_chess_board.html#a18cff920bc2995b7053a239f5e02dcf8" title="Evaluate the whole chessBoard then give a Mark. " alt="" coords="255,5,441,46"/>
+<area shape="rect" id="node3" href="$class_node.html#aff16eb33dd76f913576b97b4e32c0dd0" title="Node::AddChild" alt="" coords="292,71,404,97"/>
+<area shape="rect" id="node4" href="$class_chess_board.html#a51a304bfce8f9b089103f14019cfa50b" title="Whether _toJudge contain the specific Position. " alt="" coords="251,121,445,148"/>
+<area shape="rect" id="node6" href="$class_chess_board.html#ab26acf9f7c0e378d82d7f158fe08354e" title="Whether win or Not. " alt="" coords="277,172,419,199"/>
+<area shape="rect" id="node7" href="$class_chess_board.html#ae01a22a8a61e2031ec20439492010047" title="Delete p in _toJudge. " alt="" coords="255,223,441,249"/>
+<area shape="rect" id="node8" href="$class_node.html#a68fb32a3fbb93b3a844680dd1287b252" title="Node::GetLastChild" alt="" coords="281,273,415,300"/>
+<area shape="rect" id="node5" href="$class_chess_board.html#a175c9f13c3e343657185ac161dd32516" title="Find the index of the specific position in _toJudge. " alt="" coords="494,172,669,199"/>
+</map>

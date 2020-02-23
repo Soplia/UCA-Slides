@@ -1,0 +1,4 @@
+<map id="ChessBoard::Init" name="ChessBoard::Init">
+<area shape="rect" id="node2" href="$class_chess_board.html#a6585395bb4f064b4f4566df1c7fa4276" title="A constructor, init the _chessBoard matriz to Zero. " alt="" coords="190,5,362,32"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#a8c11ebdc185e87069ddb87e2af804549" title="Set the _chessBoard matrix to Zero. " alt="" coords="173,56,379,83"/>
+</map>

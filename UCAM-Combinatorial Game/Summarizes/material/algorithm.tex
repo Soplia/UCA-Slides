@@ -1,0 +1,39 @@
+\documentclass{article}
+
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{amsmath}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}  % Use Input in the format of Algorithm
+\renewcommand{\algorithmicensure}{\textbf{Output:}} % Use Output in the format of Algorithm
+
+\begin{document}
+
+\begin{algorithm}[htb]
+  \caption{ Pseudo Algoithm for Checkerboard Pattern Match}
+  \label{pm}
+  \begin{algorithmic}[1]
+    \Require
+      The DFA list for pre-known checkerboard, $D_p$;
+      The strings for pre-know checkerboard, $S_p$;
+      The current checkerboard;
+    \Ensure
+      The best choice for the next step;
+      
+    \State Get the DFA from the current checkerboard denote $D_c$;
+    \label{pm:c:dfa}
+    
+    \State Get the string from the current checkerboard denote $S_c$;
+    \label{pm:c:string}
+    
+    \State Get the match coefficients for each DFA from $S_p$ against $S_c$ with Boyer- Algorithm;
+    \label{pm:c:mc}
+    
+    \State Get the best position for next step by compare the selected DFA from $D_p$ 
+    and $D_c$;\\
+    \label{pm:c:res}
+    
+    \Return The best position for next step;
+  \end{algorithmic}
+\end{algorithm}
+
+\end{document}

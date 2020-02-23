@@ -1,0 +1,8 @@
+<map id="ChessBoard::Play" name="ChessBoard::Play">
+<area shape="rect" id="node2" href="$class_position.html#a541ae7bde29192857d20a535036171d6" title="Set _x and _y. " alt="" coords="222,5,335,32"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#ab26acf9f7c0e378d82d7f158fe08354e" title="Whether win or Not. " alt="" coords="208,56,349,83"/>
+<area shape="rect" id="node4" href="$class_chess_board.html#a6b1548da1f05c0a6efbfed247c9907ce" title="Whether the _chessBoard matrix is full or Not. " alt="" coords="213,107,345,133"/>
+<area shape="rect" id="node5" href="$class_chess_board.html#a51a304bfce8f9b089103f14019cfa50b" title="Whether _toJudge contain the specific Position. " alt="" coords="182,157,375,184"/>
+<area shape="rect" id="node7" href="$class_chess_board.html#ae01a22a8a61e2031ec20439492010047" title="Delete p in _toJudge. " alt="" coords="185,208,372,235"/>
+<area shape="rect" id="node6" href="$class_chess_board.html#a175c9f13c3e343657185ac161dd32516" title="Find the index of the specific position in _toJudge. " alt="" coords="425,183,599,209"/>
+</map>

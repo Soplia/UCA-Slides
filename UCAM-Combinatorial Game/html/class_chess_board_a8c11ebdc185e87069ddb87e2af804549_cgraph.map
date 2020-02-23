@@ -1,0 +1,4 @@
+<map id="ChessBoard::CleanChessBoard" name="ChessBoard::CleanChessBoard">
+<area shape="rect" id="node2" href="$class_chess_board.html#af4d13b651b83e89d45262bd7625cd475" title="Init the _chessBoard matrix to x. " alt="" coords="259,5,378,32"/>
+<area shape="rect" id="node3" href="$class_position.html#a541ae7bde29192857d20a535036171d6" title="Set _x and _y. " alt="" coords="427,5,541,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MTRandom::GenrandInt32" name="MTRandom::GenrandInt32">
+<area shape="rect" id="node2" href="$class_m_t_random.html#a65e2d35f3616bbfd0088a3b4b8e6c12f" title="generates an integer number on [0,100] interval.. " alt="" coords="227,5,400,32"/>
+<area shape="rect" id="node3" href="$_bench_8cpp.html#ab70ffe00be8130d5b4982bbe94455bde" title="InitRandSteps" alt="" coords="449,5,551,32"/>
+<area shape="rect" id="node4" href="$_bench_8cpp.html#aba4b4e93575fbe97ee05b2c1f4f053f1" title="Simulation" alt="" coords="600,5,683,32"/>
+<area shape="rect" id="node5" href="$_bench_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="731,5,781,32"/>
+</map>

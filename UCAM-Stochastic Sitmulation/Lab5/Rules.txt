@@ -1,0 +1,75 @@
+第一方使用1 第二方使用2  如果没有人还是使用0
+修改打印方法
+
+
+For a cell space that is 'populated':
+1. Each cell with one or no neighbours dies, as if by loneliness.  70%
+2. Each cell with four or more neighbours dies, as if by overpopulation.  70%
+3. Each cell with two or three neighbours survives.
+
+For a cell space that is 'empty' or 'unpopulated'：
+4. Each cell with three neighbours becomes populated.”
+
+For a cell is populated at the same time surrounded by the different kind:
+1. three or more will die. 40%
+
+如果同时具有那就进行相乘获得概率。这个概率可以通过以前写的进行改进。
+
+1. HeaderDoc、Appledoc生成文档有些问题。自动生成注释没有解决。
+2. Xcode功能非常的强大，Git在其上可以方便使用。
+3. Xcode生成的模板可以进行改正。
+4. hashlife algorithm 不容易实现
+5. Memorization 同样不容易实现
+6. Golly 的规则的含义，以及初始值可以表示成hash值。
+7. Golly 的游戏并不满足两个Agent的要求。
+
+Exercise2
+01. 
+gpg --full-generate-key
+2
+2048
+10
+o
+
+02. 
+gpg --gen-revoke 24A6EA8D
+
+
+03. 
+already have
+gpg --import /Users/qingmang/Certification/public-key-giraud-333F2F2A.txt 
+
+
+04. 
+图片
+
+05. 
+5-1 gpg  --fingerprint 24A6EA8D
+
+5-2 
+gpg --quick-add-key 156B0ED843787A758A0633EA175751BF24A6EA8D rsa2048 encr 2018-12-26
+
+5-3 unfinished
+gpg --edit-key 24A6EA8D
+
+setpref 24A6EA8D
+
+5-4 不能通过更改后缀名进行更改
+addphoto /Users/qingmang/Pictures/12.JPG
+
+5-5
+adduid
+uid 3
+uid 1
+
+5-6
+save
+
+
+
+
+
+
+
+
+

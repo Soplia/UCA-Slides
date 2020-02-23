@@ -1,0 +1,17 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX movie: <http://data.linkedmdb.org/resource/movie/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?film ?label ?subject WHERE {
+    SERVICE <http://data.linkedmdb.org/sparql> {
+        ?film a movie:film .
+        ?film rdfs:label ?label .
+        ?film owl:sameAs ?dbpediaLink 
+        FILTER(regex(str(?dbpediaLink), "dbpedia", "i"))
+    }
+    SERVICE <http://dbpedia.org/sparql> {
+        ?dbpediaLink dcterms:subject ?subject
+    }
+}
+LIMIT 50

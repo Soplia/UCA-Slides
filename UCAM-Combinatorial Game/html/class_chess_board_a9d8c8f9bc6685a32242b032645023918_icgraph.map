@@ -1,0 +1,8 @@
+<map id="ChessBoard::Play" name="ChessBoard::Play">
+<area shape="rect" id="node2" href="$class_chess_board.html#a0e398eca2d907d390e3c240657bccce6" title="The whole process of WithAI to Play. " alt="" coords="191,5,331,32"/>
+<area shape="rect" id="node6" href="$class_chess_board.html#a7264d36b38c7fcf8a1485ea94752bac7" title="The whole process of WithoutAI to Play. " alt="" coords="182,56,341,83"/>
+<area shape="rect" id="node7" href="$class_chess_board.html#afc6df629a4bd52dc9e1ab35f99fcdb77" title="The whole process of User to Play. " alt="" coords="197,107,325,133"/>
+<area shape="rect" id="node3" href="$_bench_8cpp.html#a391ed5a8e84e0c58cd55eaf9202c7f9d" title="PlayChess. " alt="" coords="389,56,475,83"/>
+<area shape="rect" id="node4" href="$_bench_8cpp.html#aba4b4e93575fbe97ee05b2c1f4f053f1" title="Simulation" alt="" coords="523,56,605,83"/>
+<area shape="rect" id="node5" href="$_bench_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="653,56,704,83"/>
+</map>

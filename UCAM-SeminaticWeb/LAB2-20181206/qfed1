@@ -1,0 +1,8 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/resource/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT distinct ?x   where {
+ service <https://dbpedia.org/sparql> {dbp:Alan_Turing dbo:doctoralAdvisor/dbo:doctoralStudent ?x } 
+} limit 50
+

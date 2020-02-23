@@ -1,0 +1,30 @@
+Hashlife is a memoized algorithm represented by a quadtree. For computing the long-term fate of a given starting configuration in Conway's Game of Life and related cellular automata. Hashlife combines quadtrees and memoization to yield astronomical speedup to the Game of Life. Run some universes for trillions of generations as they grow to billions of cells. What is quadtree? For instance, the function takes a node at level 2, representing a 4×4 square of the universe, and return a node at level 1, representing the 2×2 square you can directly compute from the information in that 4×4 square. 
+
+Three main points in hashlife algorithm:
+Firstly, the canonicalization step is a powerful form of compression of space. All empty areas of the universe compress into a single small set of nodes.Further, the hash set providing the canonicalization can be trivially garbage collected, even in languages like C++, when desired (assuming the hash set stores pointers); Simply create a new empty hash set, swap it with the current canonicalized hash set, recanonicalize from the current root, then delete all nodes that are in the old hash set but not the new one.
+Secondly, memoization is nothing more than caching the results of a function in case it is called again with the same arguments. Consider the classic example of memoization, the Fibonacci function. 
+The final is to change the number of generations that the recursive call computes. Currently, it computes only a single generation at every level. This can provide a speedup, but the runtime will always be at least linear in the number of generations, even for an empty universe. 
+
+
+
+
+
+Rule formats used by Golly
+The easiest like B3/S23 [Life]、B36/S23 [HighLife]、B3678/S34678 [Day & Night]、B35678/S5678 [Diamoeba]. Take B3/S23 as an instance, "B3" means birth on 3 neighbors and survival on 3 or 4 neighbors.
+To specify this neighborhood just append "V" to the usual "B.../S..." notation and use neighbor counts ranging from 0 to 4. For example, try B13/S012V or B2/S013V. To specify a hexagonal neighborhood just append "H" to the usual "B.../S..." notation
+The syntax used to specify a non-totalistic rule is based on a notation developed by Alan Hensel.For example, B3/2a34 means birth on 3 neighbors and survival on 2 adjacent neighbors (a corner and an edge), or 3 or 4 neighbors.Letter strings can get quite long, so it's possible to specify their inverse using a "-" between the digit and the letters. For example, B2cekin/S12 is equivalent to B2-a/S12 and means birth on 2 non-adjacent neighbors, and survival on 1 or 2 neighbors. 
+
+Rule formt used by Golly
+@RULE
+The first line of a .rule file must start with @RULE followed by a space and then the rule name. 
+@TABLE
+ If present, it contains a transition table that can be loaded by the RuleLoader algorithm. The contents of this section is identical to the contents of a .table file. A detailed specification of the .table format is available here. 
+@TREE
+If present, it contains a rule tree that can be loaded by the RuleLoader algorithm. (If the .rule file also contains a @TABLE section, RuleLoader will use the first one it finds.) The contents of this section is identical to the contents of a .tree file.
+@ICONS
+This section is optional and can be used to override the default icons displayed for this rule (when Golly is in icon mode).
+
+
+
+
+

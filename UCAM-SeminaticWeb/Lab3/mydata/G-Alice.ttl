@@ -1,0 +1,14 @@
+@prefix  foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix  rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix  rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix  myex:  <http://www.isimq.fr/myexample/> .
+
+
+_:a  foaf:name     "Alice" .
+_:a  foaf:mbox     <mailto:alice@work.example> .
+_:a  foaf:knows    myex:b .
+_:a  foaf:knows    myex:m .
+
+myex:b  foaf:name     "Bob" .
+
+myex:m  foaf:name     "Marie" .

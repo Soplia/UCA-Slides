@@ -1,0 +1,6 @@
+<map id="ChessBoard::GetBestPosition" name="ChessBoard::GetBestPosition">
+<area shape="rect" id="node2" href="$class_chess_board.html#a0e398eca2d907d390e3c240657bccce6" title="The whole process of WithAI to Play. " alt="" coords="251,5,391,32"/>
+<area shape="rect" id="node3" href="$_bench_8cpp.html#a391ed5a8e84e0c58cd55eaf9202c7f9d" title="PlayChess. " alt="" coords="440,5,525,32"/>
+<area shape="rect" id="node4" href="$_bench_8cpp.html#aba4b4e93575fbe97ee05b2c1f4f053f1" title="Simulation" alt="" coords="573,5,656,32"/>
+<area shape="rect" id="node5" href="$_bench_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="704,5,755,32"/>
+</map>

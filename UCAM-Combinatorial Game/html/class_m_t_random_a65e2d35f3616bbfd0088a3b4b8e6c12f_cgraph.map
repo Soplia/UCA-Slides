@@ -1,0 +1,4 @@
+<map id="MTRandom::GenrandInt15" name="MTRandom::GenrandInt15">
+<area shape="rect" id="node2" href="$class_m_t_random.html#a55c354dc4a010b2327fbbc4c06d1fa52" title="Generates a random number on [0,0xffffffff]&#45;interval. " alt="" coords="227,5,400,32"/>
+<area shape="rect" id="node3" href="$class_m_t_random.html#a30bebdf5f5482b1cd4c66b8164954322" title="Initializes mt[N] with a seed. " alt="" coords="448,5,611,32"/>
+</map>

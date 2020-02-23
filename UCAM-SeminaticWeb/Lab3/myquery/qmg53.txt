@@ -1,0 +1,16 @@
+prefix foaf:  <http://xmlns.com/foaf/0.1/> 
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+prefix cit: <http://yago-knowledge.org/resource/>
+
+select  ?x ?y ?z
+where 
+{ 
+	service <https://linkeddata1.calcul.u-psud.fr/sparql>
+	{
+	dbp:Carnival_of_Light dbo:artist ?x.
+	?x dbo:hometown ?y .
+	?y cit:hasCitationTitle ?z .
+	}
+}

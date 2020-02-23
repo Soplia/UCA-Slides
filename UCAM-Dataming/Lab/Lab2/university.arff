@@ -1,0 +1,19 @@
+@relation university
+
+@attribute num numeric
+@attribute M {low,medium,high}
+@attribute A {young,middle-age,old}
+@attribute R {village,city,town}
+@attribute E {yes,no}
+@attribute class {yes,no}
+
+@data
+
+1,medium,middle-age,village,yes,yes
+2,low,middle-age,city,no,no
+3,low,old,town,no,no
+4,low,middle-age,town,yes,yes
+5,medium,young,city,yes,yes
+6,high,middle-age,city,yes,no
+7,low,middle-age,city,yes,no
+8,low,middle-age,city,no,no

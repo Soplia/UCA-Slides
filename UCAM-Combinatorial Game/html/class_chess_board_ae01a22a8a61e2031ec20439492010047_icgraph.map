@@ -1,0 +1,10 @@
+<map id="ChessBoard::ToJudgeDelete" name="ChessBoard::ToJudgeDelete">
+<area shape="rect" id="node2" href="$class_chess_board.html#a9d8c8f9bc6685a32242b032645023918" title="Play the chess point into the ChessBoard. " alt="" coords="275,56,402,83"/>
+<area shape="rect" id="node9" href="$class_chess_board.html#a1e3c99563d7b6413f7e570ab3f90e3cb" title="Get the best Position. " alt="" coords="241,5,437,32"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#a0e398eca2d907d390e3c240657bccce6" title="The whole process of WithAI to Play. " alt="" coords="495,5,635,32"/>
+<area shape="rect" id="node7" href="$class_chess_board.html#a7264d36b38c7fcf8a1485ea94752bac7" title="The whole process of WithoutAI to Play. " alt="" coords="486,56,645,83"/>
+<area shape="rect" id="node8" href="$class_chess_board.html#afc6df629a4bd52dc9e1ab35f99fcdb77" title="The whole process of User to Play. " alt="" coords="501,107,629,133"/>
+<area shape="rect" id="node4" href="$_bench_8cpp.html#a391ed5a8e84e0c58cd55eaf9202c7f9d" title="PlayChess. " alt="" coords="693,56,779,83"/>
+<area shape="rect" id="node5" href="$_bench_8cpp.html#aba4b4e93575fbe97ee05b2c1f4f053f1" title="Simulation" alt="" coords="827,56,909,83"/>
+<area shape="rect" id="node6" href="$_bench_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="957,56,1008,83"/>
+</map>

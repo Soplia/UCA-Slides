@@ -1,0 +1,4 @@
+<map id="ChessBoard::ComputerDo" name="ChessBoard::ComputerDo">
+<area shape="rect" id="node2" href="$class_chess_board.html#a466178e62ae1183a61e235427fcfee5b" title="Whether has been played or Not. " alt="" coords="227,5,395,32"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#a0a2aa09dac498411fcd2e7bbd82a356e" title="Calculate the value of position with the same Type. " alt="" coords="229,56,392,83"/>
+</map>

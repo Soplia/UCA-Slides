@@ -1,0 +1,8 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: This is a revocation certificate
+
+iHgEIBEIACAWIQQVaw7YQ3h6dYoGM+oXV1G/JKbqjQUCXByXgwIdAAAKCRAXV1G/
+JKbqjV0eAP9eV85VJHFs4BpUv8K8Aqtz0vE0H8fcgp15gfzZHTAUZAD/ZYQZHjzK
+/0UThSVuPK25/oJame+bvhrRxYUjgVcZMqY=
+=Mf1k
+-----END PGP PUBLIC KEY BLOCK-----

@@ -1,0 +1,10 @@
+<map id="ChessBoard::User" name="ChessBoard::User">
+<area shape="rect" id="node2" href="$class_chess_board.html#a00a7315cca4880c6dccc15de65fea439" title="Get the user&#39;s wanted positions. " alt="" coords="182,56,378,83"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#a9d8c8f9bc6685a32242b032645023918" title="Play the chess point into the ChessBoard. " alt="" coords="217,107,343,133"/>
+<area shape="rect" id="node4" href="$class_position.html#a541ae7bde29192857d20a535036171d6" title="Set _x and _y. " alt="" coords="467,5,581,32"/>
+<area shape="rect" id="node5" href="$class_chess_board.html#ab26acf9f7c0e378d82d7f158fe08354e" title="Whether win or Not. " alt="" coords="453,56,595,83"/>
+<area shape="rect" id="node6" href="$class_chess_board.html#a6b1548da1f05c0a6efbfed247c9907ce" title="Whether the _chessBoard matrix is full or Not. " alt="" coords="458,107,590,133"/>
+<area shape="rect" id="node7" href="$class_chess_board.html#a51a304bfce8f9b089103f14019cfa50b" title="Whether _toJudge contain the specific Position. " alt="" coords="427,157,621,184"/>
+<area shape="rect" id="node9" href="$class_chess_board.html#ae01a22a8a61e2031ec20439492010047" title="Delete p in _toJudge. " alt="" coords="431,208,617,235"/>
+<area shape="rect" id="node8" href="$class_chess_board.html#a175c9f13c3e343657185ac161dd32516" title="Find the index of the specific position in _toJudge. " alt="" coords="670,183,845,209"/>
+</map>

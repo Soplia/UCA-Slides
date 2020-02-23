@@ -1,0 +1,12 @@
+prefix foaf:  <http://xmlns.com/foaf/0.1/> 
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+select distinct  ?y ?d
+where 
+{ 
+	GRAPH </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl>  
+	{
+	?x foaf:name "Alice" .
+	?x foaf:knows ?y .
+	}
+	GRAPH </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl> { ?y foaf:nick ?d .}
+}

@@ -1,0 +1,15 @@
+<map id="Position::SetXY" name="Position::SetXY">
+<area shape="rect" id="node2" href="$class_chess_board.html#af4d13b651b83e89d45262bd7625cd475" title="Init the _chessBoard matrix to x. " alt="" coords="173,56,291,83"/>
+<area shape="rect" id="node5" href="$class_chess_board.html#a9d8c8f9bc6685a32242b032645023918" title="Play the chess point into the ChessBoard. " alt="" coords="169,132,295,159"/>
+<area shape="rect" id="node12" href="$class_node.html#a327cb611fb189d5252b6026917c226b7" title="Node::Node" alt="" coords="187,183,277,209"/>
+<area shape="rect" id="node13" href="$class_node.html#a433b948ec290d36f3f8ab33d3876dfc2" title="Node::operator=" alt="" coords="175,233,289,260"/>
+<area shape="rect" id="node14" href="$class_position.html#a6e36cf0fee251e74cfedb86f4e99558d" title="A Constructor. " alt="" coords="170,284,294,311"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#a6585395bb4f064b4f4566df1c7fa4276" title="A constructor, init the _chessBoard matriz to Zero. " alt="" coords="361,5,533,32"/>
+<area shape="rect" id="node4" href="$class_chess_board.html#a8c11ebdc185e87069ddb87e2af804549" title="Set the _chessBoard matrix to Zero. " alt="" coords="344,56,549,83"/>
+<area shape="rect" id="node6" href="$class_chess_board.html#a0e398eca2d907d390e3c240657bccce6" title="The whole process of WithAI to Play. " alt="" coords="377,107,517,133"/>
+<area shape="rect" id="node10" href="$class_chess_board.html#a7264d36b38c7fcf8a1485ea94752bac7" title="The whole process of WithoutAI to Play. " alt="" coords="367,157,526,184"/>
+<area shape="rect" id="node11" href="$class_chess_board.html#afc6df629a4bd52dc9e1ab35f99fcdb77" title="The whole process of User to Play. " alt="" coords="383,208,511,235"/>
+<area shape="rect" id="node7" href="$_bench_8cpp.html#a391ed5a8e84e0c58cd55eaf9202c7f9d" title="PlayChess. " alt="" coords="597,157,683,184"/>
+<area shape="rect" id="node8" href="$_bench_8cpp.html#aba4b4e93575fbe97ee05b2c1f4f053f1" title="Simulation" alt="" coords="731,157,813,184"/>
+<area shape="rect" id="node9" href="$_bench_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="861,157,912,184"/>
+</map>

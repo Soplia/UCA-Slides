@@ -1,0 +1,378 @@
+Exercise2
+01a.
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl  --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg1.txt 
+----------------------------------------------------------------------------
+| g                                                              | y       |
+============================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Bob"   |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Marie" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Alice" |
+----------------------------------------------------------------------------
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl  --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg2.txt 
+----------------------------------------------------------------------------
+| g                                                              | y       |
+============================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Alice" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Marie" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Bob"   |
+----------------------------------------------------------------------------
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl  --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg3.txt 
+----------------------------------------------------------------------------
+| g                                                              | y       |
+============================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Marie" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Alice" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Bob"   |
+----------------------------------------------------------------------------
+
+01b.
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg1.txt 
+------------------------------------------------------------------------
+| g                                                            | y     |
+========================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl> | "Bob" |
+------------------------------------------------------------------------
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg2.txt
+------------------------------------------------------------------------
+| g                                                            | y     |
+========================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl> | "Bob" |
+------------------------------------------------------------------------
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg3.txt
+------------------------------------------------------------------------
+| g                                                            | y     |
+========================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl> | "Bob" |
+------------------------------------------------------------------------
+
+01c
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg1.txt
+----------------------------------------------------------------------------
+| g                                                              | y       |
+============================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl>   | "Bob"   |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Marie" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Alice" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Bob"   |
+----------------------------------------------------------------------------
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg2.txt
+----------------------------------------------------------------------------
+| g                                                              | y       |
+============================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl>   | "Bob"   |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Bob"   |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Marie" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Alice" |
+----------------------------------------------------------------------------
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg3.txt
+----------------------------------------------------------------------------
+| g                                                              | y       |
+============================================================================
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl>   | "Bob"   |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Bob"   |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Marie" |
+| </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl> | "Alice" |
+----------------------------------------------------------------------------
+
+02.
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg4.txt
+-----
+| y |
+=====
+-----
+
+./arq --graph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl  --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg4.txt
+-----
+| y |
+=====
+-----
+
+03. 
+prefix foaf:  <http://xmlns.com/foaf/0.1/> 
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+select distinct  ?y ?d
+where 
+{ 
+	GRAPH </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl>  
+	{
+	?x foaf:name "Alice" .
+	?x foaf:knows ?y .
+	}
+	GRAPH </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl> { ?y foaf:nick ?d .}
+}
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl  --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Bob.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg23.txt
+------------------------------------------------
+| y                                 | d        |
+================================================
+| <http://www.isimq.fr/myexample/b> | "Bobby"  |
+| <http://www.isimq.fr/myexample/b> | "Robert" |
+------------------------------------------------
+
+04.
+
+prefix foaf:  <http://xmlns.com/foaf/0.1/> 
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+select distinct  ?y ?d
+where 
+{ 
+	GRAPH </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl>  
+	{
+	?x foaf:name "Alice" .
+	?x foaf:knows ?y .
+	}
+	GRAPH </Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Persons.ttl> { ?y foaf:nick ?d .}
+}
+
+./arq --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Alice.ttl  --namedgraph=/Users/qingmang/Desktop/SeminaticWeb/Lab3/mydata/G-Persons.ttl --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg24.txt
+
+--------------------------------------------
+| y                                 | d    |
+============================================
+| <http://www.isimq.fr/myexample/m> | "MM" |
+--------------------------------------------
+
+Exercise3
+01.
+
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+select distinct  ?p
+where 
+{ 
+	dbp:The_Beatles ?p ?y .
+}
+
+./arq --data http://dbpedia.org/data/The_Beatles.rdf --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg31.txt
+--------------------------------------------------
+| p                                              |
+==================================================
+| <http://dbpedia.org/property/n>                |
+| <http://dbpedia.org/property/d>                |
+| <http://dbpedia.org/property/alt>              |
+| foaf:name                                      |
+| foaf:isPrimaryTopicOf                          |
+| <http://dbpedia.org/property/mw>               |
+| dbo:associatedMusicalArtist                    |
+| <http://www.w3.org/2002/07/owl#sameAs>         |
+| <http://www.w3.org/2000/01/rdf-schema#comment> |
+| foaf:homepage                                  |
+| <http://purl.org/dc/terms/subject>             |
+| dbo:wikiPageExternalLink                       |
+| <http://purl.org/linguistics/gold/hypernym>    |
+| <http://www.w3.org/2000/01/rdf-schema#seeAlso> |
+| dbo:genre                                      |
+| <http://dbpedia.org/property/pos>              |
+| dbo:abstract                                   |
+| <http://dbpedia.org/property/title>            |
+| <http://dbpedia.org/property/s>                |
+| rdf:type                                       |
+| <http://dbpedia.org/property/c>                |
+| <http://dbpedia.org/property/wikt>             |
+| <http://dbpedia.org/property/m>                |
+| <http://dbpedia.org/property/caption>          |
+| dbo:background                                 |
+| <http://dbpedia.org/property/b>                |
+| <http://dbpedia.org/property/wordnet_type>     |
+| dbo:wikiPageID                                 |
+| <http://www.w3.org/ns/prov#wasDerivedFrom>     |
+| dbo:activeYearsStartYear                       |
+| <http://dbpedia.org/property/state>            |
+| dbo:thumbnail                                  |
+| <http://dbpedia.org/property/show>             |
+| dbo:associatedBand                             |
+| dbo:soundRecording                             |
+| foaf:depiction                                 |
+| dbo:wikiPageRevisionID                         |
+| dbo:recordLabel                                |
+| <http://dbpedia.org/property/ref>              |
+| dbo:hometown                                   |
+| <http://dbpedia.org/property/q>                |
+| dbo:formerBandMember                           |
+| <http://www.w3.org/2000/01/rdf-schema#label>   |
+--------------------------------------------------
+
+02.
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+
+select  count(*)
+where 
+{ 
+	dbp:The_Beatles dbo:wikiPageExternalLink ?o .
+}
+
+./arq --data http://dbpedia.org/data/The_Beatles.rdf --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg32.txt
+------
+| .1 |
+======
+| 74 |
+------
+
+03.
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+
+select  count(*)
+where 
+{ 
+	dbp:The_Beatles dbo:recordLabel ?o . 
+	FILTER(?o != dbp:Apple_Records) .
+}
+
+./arq --data http://dbpedia.org/data/The_Beatles.rdf --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg33.txt
+------
+| .1 |
+======
+| 7  |
+------
+
+04. 
+
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+
+select  ?x ?y
+where 
+{ 
+	dbp:Carnival_of_Light dbo:artist ?x.
+	?x dbo:hometown ?y .
+}
+
+./arq --data http://dbpedia.org/data/The_Beatles.rdf --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg34.txt
+-----------------------------------
+| x               | y             |
+===================================
+| dbp:The_Beatles | dbp:Liverpool |
+-----------------------------------
+
+05.
+
+./arq --query=/Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg5.txt
+----------------------------------------------------------------
+| x                                         | y                |
+================================================================
+| <http://dbpedia.org/resource/The_Beatles> | "The Beatles"@en |
+----------------------------------------------------------------
+
+From <http://dbpedia.org/data/The_Beatles.rdf> get the name of "The_Beatles'
+
+Exercise4
+01. 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbr: <http://dbpedia.org/resource/>
+
+select  ?s
+where 
+{ 
+	?s ?p ?o .
+} limit 50
+
+./rsparql --service http://dbpedia.org/sparql --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg41.txt
+
+02.
+
+
+03.
+prefix foaf:  <http://xmlns.com/foaf/0.1/> 
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbr: <http://dbpedia.org/resource/>
+
+select  ?p
+where 
+{ 
+	dbr:Alan_Turing ?p ?o .
+}
+
+./rsparql --service http://dbpedia.org/sparql --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg43.txt
+
+04.
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbr: <http://dbpedia.org/resource/>
+
+SELECT  ?names 
+where
+{
+ ?names dbo:doctoralStudent dbr:Alan_Turing .
+}
+
+./rsparql --service http://dbpedia.org/sparql --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg44.txt
+---------------------
+| names             |
+=====================
+| dbr:Alonzo_Church |
+---------------------
+
+Exercise5
+01. 
+This comment sent the query to https://dbpedia.org/sparql then get the results from spaqrl.
+
+./sparql --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qfed1.txt
+---------------------------------------------------------------
+| x                                                           |
+===============================================================
+| dbp:Raymond_Smullyan                                        |
+| dbp:Dana_Scott                                              |
+| dbp:J._Barkley_Rosser                                       |
+| dbp:Alan_Turing                                             |
+| <http://dbpedia.org/resource/David_Kaplan_(philosopher)>    |
+| dbp:Leon_Henkin                                             |
+| dbp:Martin_Davis                                            |
+| dbp:Stephen_Kleene                                          |
+| <http://dbpedia.org/resource/Alfred_Foster_(mathematician)> |
+| <http://dbpedia.org/resource/Hartley_Rogers,_Jr>            |
+| dbp:Michael_O._Rabin                                        |
+| dbp:C._Anthony_Anderson                                     |
+| dbp:George_Alfred_Barnard                                   |
+| dbp:Gary_R._Mar                                             |
+| dbp:John_George_Kemeny                                      |
+| <http://dbpedia.org/resource/Peter_Andrews_(mathematician)> |
+---------------------------------------------------------------
+
+02.
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+
+select  ?x ?y ?z ?g
+where 
+{ 
+	service <https://dbpedia.org/sparql>
+	{
+	dbp:Carnival_of_Light dbo:artist ?x.
+	?x dbo:hometown ?y .
+	?y dbo:leaderName ?z .
+	?g dbo:timeZone ?gg .
+	}
+}
+
+./sparql --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg52.txt
+
+03.
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbp: <http://dbpedia.org/resource/>
+prefix cit: <http://yago-knowledge.org/resource/>
+
+select  ?x ?y ?z
+where 
+{ 
+	service <https://linkeddata1.calcul.u-psud.fr/sparql>
+	{
+	dbp:Carnival_of_Light dbo:artist ?x.
+	?x dbo:hometown ?y .
+	?y cit:hasCitationTitle ?z .
+	}
+}
+./sparql --query /Users/qingmang/Desktop/SeminaticWeb/Lab3/myquery/qmg53.txt
+
+
+
+
+
+

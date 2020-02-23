@@ -1,0 +1,23 @@
+<map id="PlayChess" name="PlayChess">
+<area shape="rect" id="node2" href="$class_chess_board.html#abb77808f08a2acfe54e3ce1d2080062a" title="Display the _chessBoard matrix with symbols. " alt="" coords="143,224,294,251"/>
+<area shape="rect" id="node3" href="$class_chess_board.html#afc6df629a4bd52dc9e1ab35f99fcdb77" title="The whole process of User to Play. " alt="" coords="155,275,283,301"/>
+<area shape="rect" id="node12" href="$class_chess_board.html#a0e398eca2d907d390e3c240657bccce6" title="The whole process of WithAI to Play. " alt="" coords="149,325,289,352"/>
+<area shape="rect" id="node17" href="$class_chess_board.html#a466178e62ae1183a61e235427fcfee5b" title="Whether has been played or Not. " alt="" coords="605,477,773,504"/>
+<area shape="rect" id="node18" href="$class_point.html#a56ef488d55611d823a35eb1655f1de7a" title="Point::GetX" alt="" coords="175,477,263,504"/>
+<area shape="rect" id="node19" href="$class_point.html#aa42c18de4df078af493363a423fd9580" title="Point::GetY" alt="" coords="173,528,264,555"/>
+<area shape="rect" id="node20" href="$class_chess_board.html#a7264d36b38c7fcf8a1485ea94752bac7" title="The whole process of WithoutAI to Play. " alt="" coords="139,376,298,403"/>
+<area shape="rect" id="node4" href="$class_chess_board.html#a00a7315cca4880c6dccc15de65fea439" title="Get the user&#39;s wanted positions. " alt="" coords="347,148,543,175"/>
+<area shape="rect" id="node5" href="$class_chess_board.html#a9d8c8f9bc6685a32242b032645023918" title="Play the chess point into the ChessBoard. " alt="" coords="382,300,509,327"/>
+<area shape="rect" id="node6" href="$class_position.html#a541ae7bde29192857d20a535036171d6" title="Set _x and _y. " alt="" coords="633,325,746,352"/>
+<area shape="rect" id="node7" href="$class_chess_board.html#ab26acf9f7c0e378d82d7f158fe08354e" title="Whether win or Not. " alt="" coords="619,224,760,251"/>
+<area shape="rect" id="node8" href="$class_chess_board.html#a6b1548da1f05c0a6efbfed247c9907ce" title="Whether the _chessBoard matrix is full or Not. " alt="" coords="623,376,755,403"/>
+<area shape="rect" id="node9" href="$class_chess_board.html#a51a304bfce8f9b089103f14019cfa50b" title="Whether _toJudge contain the specific Position. " alt="" coords="593,275,786,301"/>
+<area shape="rect" id="node11" href="$class_chess_board.html#ae01a22a8a61e2031ec20439492010047" title="Delete p in _toJudge. " alt="" coords="596,173,783,200"/>
+<area shape="rect" id="node10" href="$class_chess_board.html#a175c9f13c3e343657185ac161dd32516" title="Find the index of the specific position in _toJudge. " alt="" coords="835,224,1010,251"/>
+<area shape="rect" id="node13" href="$class_chess_board.html#a1e3c99563d7b6413f7e570ab3f90e3cb" title="Get the best Position. " alt="" coords="347,199,543,225"/>
+<area shape="rect" id="node14" href="$class_chess_board.html#a18cff920bc2995b7053a239f5e02dcf8" title="Evaluate the whole chessBoard then give a Mark. " alt="" coords="596,57,783,98"/>
+<area shape="rect" id="node15" href="$class_node.html#aff16eb33dd76f913576b97b4e32c0dd0" title="Node::AddChild" alt="" coords="633,123,745,149"/>
+<area shape="rect" id="node16" href="$class_node.html#a68fb32a3fbb93b3a844680dd1287b252" title="Node::GetLastChild" alt="" coords="622,5,757,32"/>
+<area shape="rect" id="node21" href="$class_chess_board.html#ab9bd09851c72804bca5765f8cc2d2ba0" title="Use the exhaustive method to determine the maximum number of pieces in each of the four directions of..." alt="" coords="359,376,532,403"/>
+<area shape="rect" id="node22" href="$class_chess_board.html#a0a2aa09dac498411fcd2e7bbd82a356e" title="Calculate the value of position with the same Type. " alt="" coords="608,427,771,453"/>
+</map>
